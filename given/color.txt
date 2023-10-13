@@ -1,0 +1,6 @@
+#edeef0 white
+green
+#e1e5eb light gray
+#507299 blue
+#2e5473 darker blue
+#d0d0d0 light white 
